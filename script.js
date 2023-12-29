@@ -22,7 +22,7 @@ yesBtn.addEventListener("click", () => {
 
 
 
-question.innerHTML = "Aaaaa, I like you too";
+question.innerHTML = "Aaaaa, rifaa kebooo dikit luv u";
 
 
 
